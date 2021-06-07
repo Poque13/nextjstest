@@ -14,37 +14,32 @@ export default function Home() {
           Welcome to SnoopDogeFarm
         </h1>
 
-        <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
-        </p>
-
         <div className={styles.grid}>
           <a href="https://snoopdoge.finance.blog/" className={styles.card}>
             <h3>Documentation &rarr;</h3>
             <p>Click here to learn more about SnoopDoge.</p>
           </a>
 
-          <a href="hhttps://fr.wikipedia.org/wiki/Snoop_Dogg" className={styles.card}>
+          <a href="https://fr.wikipedia.org/wiki/Snoop_Dogg" >
             <h3>Learn &rarr;</h3>
-            <p>Learn about our king!</p>
+            <p>Learn about our super true best king!</p>
           </a>
 
           <a
-            href="https://github.com/vercel/next.js/tree/master/examples"
+            href="https://snoopdoge.finance.blog/"
             className={styles.card}
           >
             <h3>Examples &rarr;</h3>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
+            <p>On va faire que des trucs supers cools parce qu on est des gens funs.</p>
           </a>
 
           <a
-            href="https://vercel.com/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://snoopdoge.finance.blog/"
             className={styles.card}
           >
             <h3>Deploy &rarr;</h3>
             <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
+              Instantly love our project when you see it.
             </p>
           </a>
         </div>
@@ -52,7 +47,7 @@ export default function Home() {
 
       <footer className={styles.footer}>
         <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+          href="https://snoopdoge.finance.blog/"
           target="_blank"
           rel="noopener noreferrer"
         >
