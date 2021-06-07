@@ -11,7 +11,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="Le pays des poules">Next.js!</a>
+          Welcome to SnoopDogeFarm
         </h1>
 
         <p className={styles.description}>
@@ -22,12 +22,12 @@ export default function Home() {
         <div className={styles.grid}>
           <a href="https://snoopdoge.finance.blog/" className={styles.card}>
             <h3>Documentation &rarr;</h3>
-            <p>Find in-depth information about Next.js features and API.</p>
+            <p>Click here to learn more about SnoopDoge.</p>
           </a>
 
-          <a href="https://nextjs.org/learn" className={styles.card}>
+          <a href="hhttps://fr.wikipedia.org/wiki/Snoop_Dogg" className={styles.card}>
             <h3>Learn &rarr;</h3>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
+            <p>Learn about our king!</p>
           </a>
 
           <a
